@@ -1,0 +1,62 @@
+
+<html lang="en">
+
+
+<body>
+    
+    <h1>
+    Goedenavond vandaag gaan we tafels verkopen
+     </h1>
+    
+  
+        <p style="color: orange">
+    je hebt eerst een paar goede tafels nodig voor je project  
+    </p>
+
+    
+    
+
+
+    
+    
+    
+    
+    
+    <html>
+  <meta charset="utf-8">
+  <title>Voorbeeld</title>
+  <style>
+    body { background-color: greenyellow; } 
+  </style>
+  <p>stap 2 kijk of je ergens nieuwe of tafels in </p>
+        
+  <html>
+  <meta charset="utf-8">
+  <title>Voorbeeld</title>
+  <p>stap 3 zoek geintresserden in tafel die er een nodig zouden hebben</p>
+</body>
+</html>      
+        
+<!doctype html>
+<html lang="nl">
+  <meta charset="utf-8">
+  <title>Voorbeeld</title>
+  <p style="font-style: italic; color: blue;">
+    stap 4 verf eventuele tafel blauw of zwart
+  </p>
+        
+        <!DOCTYPE 
+<head>
+<style>
+  .blue-half {
+    width: 100%;
+    height: 50vh;
+    background-color: blue;
+  }
+</style>
+</head>
+
+<body>
+  <div class="blue-half"></div>
+</body>
+</html>
